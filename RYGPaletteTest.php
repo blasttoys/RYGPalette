@@ -1,3 +1,15 @@
+<style>
+body{
+text-transform: uppercase;
+font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+margin: auto;
+width: 55%;
+padding: 50px;
+}
+table{
+padding: 0 10px;}
+</style>
+
 <?php
 require 'RYGPalette.php';
 require 'PoorRYGPalette.php';
