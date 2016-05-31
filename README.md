@@ -14,4 +14,4 @@ this is a poor implementation of the Microsoft Excel conditional formatting colo
 RYBPaletteTest.php
 This file demonstrates the difference between the various implementation
 
-tags: Red yellow green color palette table highlight
+tags: red yellow green color palette table highlight php
