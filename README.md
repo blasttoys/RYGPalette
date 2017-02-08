@@ -15,3 +15,5 @@ RYBPaletteTest.php
 This file demonstrates the difference between the various implementation
 
 tags: red yellow green color colour palette table highlight php colour
+
+this is a test
