@@ -3,8 +3,8 @@
     if($verb == 'GET'){
 
     }elseif($verb == 'POST'){
-        
-    }elseif($verb == 'DELETE'){
 
+    }elseif($verb == 'DELETE'){
+//test
     }
  ?>
